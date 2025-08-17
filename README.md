@@ -48,7 +48,7 @@ Follow these instructions to get a local copy of the project up and running for 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Ilyas-exe/nfc-presence-backend-public.git
     cd nfc-presence-backend
     ```
 
